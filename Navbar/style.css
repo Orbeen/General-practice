@@ -1,0 +1,25 @@
+nav ul{ display: flex;}
+
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    display: block;
+    padding:0px  20px;
+    background-color: palegoldenrod;
+
+  
+}
+nav ul li:hover{
+
+color: orangered;
+background-color: palevioletred;
+
+
+}
+nav li a{
+text-decoration: none;
+color: orange;
+font-size: 20px;
+
+
+}
